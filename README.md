@@ -26,5 +26,5 @@ Sometimes people beat themselves up over not doing enough and feeling dishearten
 ## Share your success
 Tweeting your progress is also a big part of the challenge and possibly, one of the reason some of you might kept going at times. At the beginning, tweeting your progress will feel odd for you. But in the end, you will learn how to celebrate tiny little milestones each day.
 
-You don't have to keep a log on github, twitter can be a personal log to review what you have learned. #The most amazing things is the constant feedback and cheering you will get from the #30DaysofRCode community. With the tendency of meeting lovely and talented people through this challenge.
+You don't have to keep a log on github, twitter can be a personal log to review what you have learned. #The most amazing things is the constant feedback and cheering you will get from the #90DaysofRCode community. With the tendency of meeting lovely and talented people through this challenge.
 
